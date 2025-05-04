@@ -1,0 +1,7 @@
+{
+"flashlight": "flashlight_on",
+"turn on the light": "flashlight_on",
+"turn off the light": "flashlight_off",
+"open camera": "open_camera"
+"volume up": "volume_up"
+}
